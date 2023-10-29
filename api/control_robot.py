@@ -1,6 +1,6 @@
-import sys
 import sim
 import time
+import sys
 
 print("program started")
 
